@@ -1,0 +1,23 @@
+{
+  "name": "app-exel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wladekwaldek/exel.git"
+  },
+  "author": "WladekWaldek <wladekwaldek21@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wladekwaldek/exel/issues"
+  },
+  "homepage": "https://github.com/wladekwaldek/exel#readme",
+  "devDependencies": {
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
